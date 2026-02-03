@@ -1,7 +1,9 @@
-# Tips for this week
+# Understanding of the project 
+Having looked through the project brief with my team, we gathered some questions to ask the client, with the answer's we got we have a better understanding of what the client wants and have managed to forumlate our MoSCoW document.
 
-Provide evidence that your team has completed the Git/Github Recipes lab.
+# Tools
+We have created a discord server for communicating/organising meetings, for sharing files and collaborating we will have a git hub repo for us all to use. 
 
-Comment on your growing understanding of the client's requirements.  This may include a draft MoSCoW analysis.  Outline tools set up to help the team work together.
-
-Create a retrospective entry for week one and and `read.md` file. 
+# Recipie repo
+We have all made commits to the recipie repo which can be found with the link below 
+https://github.com/Alex-Le-Page/team-recipie-book.git
