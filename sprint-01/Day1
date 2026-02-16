@@ -1,0 +1,11 @@
+# Day 1 
+# Objectives for the day 
+My objectives today were to work on the apex cornering algoirthm using the racing lines. And to improve the current steering algorithm
+and incorporate the racing lines within this.
+
+# What I completed
+I made progress on developing the apex cornering algorithm and managed to create a function that can return an ideal track position for 
+the car based on how far it is into the corner. I breifly started the steering algorithm aswell but it needs work.
+
+# What I will do tommorow 
+Tommorow I will polish the apex cornering and aim to get a working version of the steering integrated with the apex cornering logic 
