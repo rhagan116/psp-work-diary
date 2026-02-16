@@ -1,3 +1,3 @@
-# Tips for this week
+# Week 3 Approach To Sprint Week
 
-Comment on your teams approach to software development.  How will you approach the sprint week?
+This week we have started early development of our software and have split the team up into 3 groups of two, each team being made to complete a different task in the software, my task for sprint week is to work on the apex cornering of the car.
