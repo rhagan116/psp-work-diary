@@ -1,3 +1,5 @@
-# Tips for this week
+# Sprint Week 4 Preperation
 
-Consider all the software, hardware and other preparations needed for a successful sprint.
+This week we disscussed the challenges we might face going into sprint week, we created a document listing all the risks and potential issues.
+
+After doing this we split the tasks of the project up into 3 teams of 2 in order to split the workload and work more efficiently.
