@@ -1,0 +1,10 @@
+# What I will do today
+Today we have agreed that Myles will look into the apex cornering algorithm on his own and I will join Nadal in wokring on the optomization of the car
+
+# What I did today
+After looking through the code with Nadal we managed to make some progress on bringing down the cars overall laptime by improving the steering, gear changing and braking algorithms. 
+We managed to get the cars time down from 2:39 to 2:14, however there is still one issue that is left to solve involving the corner recognition and braking.
+
+# What I will do tommorow
+Tommorow if the final sprint day so we will spend the morning working on the last issue involving the corner recognition and braking
+
