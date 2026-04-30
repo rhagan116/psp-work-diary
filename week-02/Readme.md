@@ -5,5 +5,6 @@ Having looked through the project brief with my team, we gathered some questions
 We have created a discord server for communicating/organising meetings, for sharing files and collaborating we will have a git hub repo for us all to use. 
 
 # Recipie repo
-We have all made commits to the recipie repo which can be found with the link below 
+We have all made commits to the recipie repo which can be found with the link below, this is good practice to ensure we are all familliar with the way github works and how to make commits on our own machines
+and also deal with merge conflicts/merges 
 https://github.com/Alex-Le-Page/team-recipie-book.git
